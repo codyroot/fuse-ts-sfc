@@ -1,0 +1,23 @@
+{
+  "name": "fuse-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node fuse"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "vue": "^2.5.2"
+  },
+  "devDependencies": {
+    "fuse-box": "^2.3.3",
+    "postcss-selector-parser": "^2.2.3",
+    "tslib": "^1.7.1",
+    "typescript": "^2.5.3",
+    "vue-hot-reload-api": "^2.2.0",
+    "vue-template-compiler": "^2.5.2",
+    "vue-template-es2015-compiler": "^1.6.0"
+  }
+}

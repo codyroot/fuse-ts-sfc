@@ -1,0 +1,13 @@
+/** Button */
+button {
+    padding: 5px 20px;
+    border: 0;
+    border-radius: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 16px;
+    color: #FFF;
+    background-color: #3498DB;
+    border-bottom: 5px solid #2980B9;
+    text-shadow: 0px -2px #2980B9;
+    cursor: pointer;
+}

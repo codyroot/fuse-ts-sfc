@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": true,
+        "noImplicitUseStrict": false,
+        "strictNullChecks": true,
+        "outDir": "dist/",
+        "allowSyntheticDefaultImports": true,
+        "importHelpers": true,
+        "strict": true,
+        "lib": [
+            "es2015",
+            "es2016",
+            "dom"
+        ]
+    },
+    "exclude": [
+        "./node_modules"
+    ]
+}
